@@ -1,0 +1,35 @@
+.box{
+	min-height: 100px;
+	background-color: lime;
+	margin-bottom: 10px;
+}
+.box2{
+	min-height: 80px;
+	background-color: teal;
+	margin-bottom: 10px;
+}
+.box3{
+	min-height: 80px;
+	background-color: #7CB9E8;
+	margin-bottom: 10px;
+}
+.box4{
+	min-height: 80px;
+	background-color: #9966CC;
+	margin-bottom: 10px;
+}
+.mh-400{
+	min-height: 400px;
+	background-color: #7CB9E8;
+	margin-bottom: 10px;
+}
+.mh1-400{
+	min-height: 400px;
+	background-color: teal;
+	margin-bottom: 10px;
+}
+.mh0-400{
+	min-height: 400px;
+	background-color: #ACE5EE;
+	margin-bottom: 10px;
+}
